@@ -1,0 +1,8 @@
+DistractionPlay:
+- change the behavior of the distractors so that they do not pass to each other as long as the ball is in a certain area, and make 
+  an attempt to pass to the shooter instead.
+- Distractors currently assume starting at the center. Play should assume the robots tart anywhere or even more often from our goal.
+- (Maybe dont worry) Robots should pass to one another while headed up, or the pass up to the distract side should have better defense
+- implement chipper
+- maybe one big method/state/whatever for passing upwards which incorporates all elements we would like (chipping, etc.)
+    I just don't want ot deal with so many states.
