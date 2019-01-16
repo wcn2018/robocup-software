@@ -5,4 +5,5 @@ DistractionPlay:
 - (Maybe dont worry) Robots should pass to one another while headed up, or the pass up to the distract side should have better defense
 - implement chipper
 - maybe one big method/state/whatever for passing upwards which incorporates all elements we would like (chipping, etc.)
-    I just don't want ot deal with so many states.
+    I just don't want to deal with so many states.
+- Put state adds into a loop.
